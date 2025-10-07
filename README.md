@@ -1,35 +1,5 @@
 <html>
-  <head>
-    <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-    <style type="text/css">
-      body{
-        background:#010033;
-        font-family: 'Montserrat', sans-serif;
-        color: #262675;
-        text-align: center;
-      }
-      h1{
-        font-size: 30px;
-        color: #4F4FB0;
-      }
-      h2{
-        font-size: 15px;
-      }
-      a{
-        fon-size: 10px;
-        color: #22227D;
-      }
-      h3{
-        font-size:13px;
-        text-align: left;
-      }
-      p{
-        font-size: 12px;
-        color:#4f4fb0;
-      }
-    </style>
-  </head>
+  <head></head>
   <body>
   <div>
   <h1>Todo lo que te quiero decir</h1>
